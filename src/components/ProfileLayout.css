@@ -1,0 +1,45 @@
+.container-fluid {
+    padding: 0;
+}
+
+.content {
+    height: 100vh;
+    overflow-y: scroll;
+    scroll-snap-type: y mandatory;
+    /* padding: 75px 100px; */
+}
+
+.vh-100 {
+    height: 100vh;
+    scroll-snap-align: start;
+    padding: 4%;
+}
+
+.hello {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+.footer {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: gray;
+    color: white;
+}
+
+.icons {
+    margin: 1%;
+    margin-inline: 3%;
+    cursor: pointer;
+}
+
+@media (max-width: 768px) {
+    .vh-100 {
+        padding: 8%;
+    }
+  }

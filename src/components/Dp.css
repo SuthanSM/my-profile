@@ -1,0 +1,19 @@
+.dp-header {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.my-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+  
+  @media (min-width: 768px) {
+    .my-image {
+        width: 200px;
+        height: 200px;
+    }
+  }
+  
