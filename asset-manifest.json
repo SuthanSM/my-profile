@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-profile/static/css/main.51f08d40.css",
-    "main.js": "/my-profile/static/js/main.422eda6e.js",
+    "main.js": "/my-profile/static/js/main.d076374b.js",
     "static/media/india.JPG": "/my-profile/static/media/india.b7925c17bd225fd38c74.JPG",
     "static/media/luxemburg.JPG": "/my-profile/static/media/luxemburg.74200e4c5aea9424b57f.JPG",
     "static/media/swiss.JPG": "/my-profile/static/media/swiss.90cfba59396ee3c8a848.JPG",
@@ -13,16 +13,16 @@
     "static/media/my-picture.PNG": "/my-profile/static/media/my-picture.b5a0376a7495991a2f5d.PNG",
     "static/media/liechtenstein.JPG": "/my-profile/static/media/liechtenstein.dc3fea54f49830481b8b.JPG",
     "static/media/hello.svg": "/my-profile/static/media/hello.9e191be049b27ee82808d343d4ed7a72.svg",
-    "static/media/icons8-github.svg": "/my-profile/static/media/icons8-github.d3cf0a5194428cce9bb0dfbfe064971d.svg",
     "static/media/icons8-instagram.svg": "/my-profile/static/media/icons8-instagram.99545c00fc3b407f8486b420e6ed1131.svg",
     "static/media/icons8-linkedin.svg": "/my-profile/static/media/icons8-linkedin.a0e9e83ffe1947889c1f5365a2ee8c52.svg",
+    "static/media/icons8-github.svg": "/my-profile/static/media/icons8-github.828579b130e566d7722b6471ab1a0cc3.svg",
     "index.html": "/my-profile/index.html",
     "static/media/icons8-gmail.svg": "/my-profile/static/media/icons8-gmail.1ce3e119ef2bc45f5aee6a2f0a6e73ea.svg",
     "main.51f08d40.css.map": "/my-profile/static/css/main.51f08d40.css.map",
-    "main.422eda6e.js.map": "/my-profile/static/js/main.422eda6e.js.map"
+    "main.d076374b.js.map": "/my-profile/static/js/main.d076374b.js.map"
   },
   "entrypoints": [
     "static/css/main.51f08d40.css",
-    "static/js/main.422eda6e.js"
+    "static/js/main.d076374b.js"
   ]
 }
