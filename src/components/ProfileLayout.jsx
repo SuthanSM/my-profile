@@ -13,10 +13,21 @@ function ProfileLayout() {
 
   const [showHelloComponent, setShowHelloComponent] = useState(true);
 
+  const openSocialProfile = (url) => {
+    window.open(url, '_blank');
+  };
+
+  const openGmail = () => {
+    const email = 'suthantippu@gmail.com';
+    const subject = '';
+    const mailtoLink = `mailto:${email}?subject=${encodeURIComponent(subject)}`;
+    window.location.href = mailtoLink;
+  };
+
   useEffect(() => {
     const timer = setTimeout(() => {
       setShowHelloComponent(false);
-    }, 800);
+    }, 8000);
 
     return () => clearTimeout(timer);
     }, []);
@@ -34,10 +45,10 @@ function ProfileLayout() {
             <Traveling />
           </div>
           <div className='footer fixed-bottom'>
-            <img className='icons' src={linkedIn} alt="LinkedIn" />
-            <img className='icons' src={github} alt="GitHub" />
-            <img className='icons' src={gmail} alt="GMail" />
-            <img className='icons' src={instagram} alt="Instagram" />
+            <img className='icons' src={linkedIn} alt="LinkedIn" onClick={() => openSocialProfile('https://www.linkedin.com/in/suthan-s-m-12494b150')} />
+            <img className='icons' src={github} alt="GitHub" onClick={() => openSocialProfile('https://github.com/SuthanSM')} />
+            <img className='icons' src={gmail} alt="GMail" onClick={openGmail} />
+            <img className='icons' src={instagram} alt="Instagram" onClick={() => openSocialProfile('https://www.instagram.com/suthan.sm/')} />
           </div>
         </div>
       }
