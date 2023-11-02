@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-profile/static/css/main.51f08d40.css",
-    "main.js": "/my-profile/static/js/main.d076374b.js",
+    "main.css": "/my-profile/static/css/main.1ae4fe1f.css",
+    "main.js": "/my-profile/static/js/main.1387717d.js",
     "static/media/india.JPG": "/my-profile/static/media/india.b7925c17bd225fd38c74.JPG",
     "static/media/luxemburg.JPG": "/my-profile/static/media/luxemburg.74200e4c5aea9424b57f.JPG",
     "static/media/swiss.JPG": "/my-profile/static/media/swiss.90cfba59396ee3c8a848.JPG",
@@ -18,11 +18,11 @@
     "static/media/icons8-github.svg": "/my-profile/static/media/icons8-github.828579b130e566d7722b6471ab1a0cc3.svg",
     "index.html": "/my-profile/index.html",
     "static/media/icons8-gmail.svg": "/my-profile/static/media/icons8-gmail.1ce3e119ef2bc45f5aee6a2f0a6e73ea.svg",
-    "main.51f08d40.css.map": "/my-profile/static/css/main.51f08d40.css.map",
-    "main.d076374b.js.map": "/my-profile/static/js/main.d076374b.js.map"
+    "main.1ae4fe1f.css.map": "/my-profile/static/css/main.1ae4fe1f.css.map",
+    "main.1387717d.js.map": "/my-profile/static/js/main.1387717d.js.map"
   },
   "entrypoints": [
-    "static/css/main.51f08d40.css",
-    "static/js/main.d076374b.js"
+    "static/css/main.1ae4fe1f.css",
+    "static/js/main.1387717d.js"
   ]
 }
