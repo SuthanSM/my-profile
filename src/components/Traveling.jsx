@@ -30,9 +30,9 @@ function Traveling() {
   }, [])
 
   return (
-    <div className='vh-infinite traveling'>
-        <h1 className='mb-5'>Being a Traveller...</h1>
-        <p className='mb-5'>
+    <div className='section traveling'>
+        <h1 className='mb-4'>Being a Traveller...</h1>
+        <p className='mb-4'>
           So I traveled to Germany in July 2022 where I stayed until October 2023 during which I gained lots of exposure on the process of software development and its impact on a business. It also opened the opportunity to travel Europe and explore different cultures, food and landscapes in Europe. Traveling has been one of the biggest motivation and something which always gave me a revelation experience. Especially in Europe I had my first experiences as a solo traveller stepping foot in 8 countries in 1 year.
         </p>
         <div className='travel-cards-grid'>

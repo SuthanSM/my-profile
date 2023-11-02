@@ -1,43 +1,17 @@
-.heading-skills {
-    margin: 5%;
+.heading {
     color: white;
 }
 
-.heading-experience {
-    margin: 2%;
-    color: white;
-}
-
-.body-experience {
-    padding: 1%;
-    padding-left: 2%;
-    margin: 0;
-}
-
-.skills {
+.career-card {
     background-color: gray;
     border-radius: 24px;
-    padding: 0;
-}
-
-.skill {
-    padding: 1%;
-    padding-left: 5%;
-    margin: 0;
-}
-
-.skill-last {
-    margin-bottom: 6%;
+    padding: 1.5rem;
+    height: 100%;
+    width: 100%;
 }
 
 .skill:hover {
     background-color: darkgray;
-}
-
-.experience {
-    background-color: gray;
-    border-radius: 24px;
-    padding: 0;
 }
 
 .company {

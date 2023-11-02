@@ -27,7 +27,7 @@ function ProfileLayout() {
   useEffect(() => {
     const timer = setTimeout(() => {
       setShowHelloComponent(false);
-    }, 8000);
+    }, 80);
 
     return () => clearTimeout(timer);
     }, []);
@@ -39,7 +39,7 @@ function ProfileLayout() {
       {
         !showHelloComponent && 
         <div>
-          <div className='content'>
+          <div className='all-sections'>
             <Intro />
             <Swe />
             <Traveling />

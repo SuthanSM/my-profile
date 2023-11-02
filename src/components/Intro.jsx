@@ -3,17 +3,17 @@ import Dp from './Dp';
 
 function Intro() {
   return (
-    <div className='vh-100 intro'>
+    <div className='section intro'>
       <div className="row align-items-center">
         <div className="col-12 col-lg-4">
           <Dp />
         </div>
         <div className="col-12 col-lg-8 mt-4">
           <h1>I'm Suthan S M</h1>
-          <h5>Software Engineer / Traveler</h5>
+          <h5>Software Engineer / Traveller</h5>
           <div className='intro-text'>
             <p>
-              A passionate software engineer and an enthusiastic traveler, an explorer trying to explore the unexplored both as a software engineer and a traveler. 
+              A passionate software engineer and an enthusiastic traveller, an explorer trying to explore the unexplored both as a software engineer and a traveller. 
             </p><p>
               Born in Mysore to a family from a small village called Somahalli just 50kms away from the Bandipur tiger reserve national park in Chamarajanagar. I started my journey as a kid in the heritage city of India, Mysuru. There I finished my schooling and graduated with Bachelor of Engineering degree in the year of 2019. As a kid who was always interested and never missed a chance to play cricket, when I had to choose my major subject between biology and computer science for 11th and 12th, I was very clear that I did not want to take biology and go in the direction of medicine, so I took computer science and that has been the best decision I have made in my life. I found my passion in programming there and choose to do my graduation in Information Science & Engineering.
             </p><p>
