@@ -27,7 +27,7 @@ function ProfileLayout() {
   useEffect(() => {
     const timer = setTimeout(() => {
       setShowHelloComponent(false);
-    }, 80);
+    }, 8000);
 
     return () => clearTimeout(timer);
     }, []);
